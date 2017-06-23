@@ -1,0 +1,28 @@
+.thumbnail:hover{
+	cursor: pointer;
+	background-color: #8AB2D4;
+	color: black;
+}
+
+.thumbnail:hover a{
+	color: blue;
+}
+
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.hidden {
+	display: none;
+}
+/*
+#logo{
+	background: url("../img/logo.png");
+}
+*/
+
+#tblLogin{
+	margin: 0 auto;
+	border-radius: 4px;
+}
